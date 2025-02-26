@@ -1,0 +1,57 @@
+# Node modules
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Metro bundler
+.expo/
+.expo-shared/
+*.expo/
+
+# React Native Build
+android/app/build/
+ios/Pods/
+ios/build/
+ios/.generated/
+*.xcworkspace
+*.xcodeproj/project.xcworkspace/
+
+# Logs & Temp Files
+*.log
+*.log.*
+*.swp
+*.swo
+*.swn
+*.DS_Store
+*.lock
+
+# Watchman
+.watchmanconfig
+
+# Babel
+.babelrc
+.babelrc.js
+.babelrc.json
+babel.config.js
+
+# Firebase & Sensitive Files
+datat_insertion/venv/
+datat_insertion/serviceAccountKey.json
+frontend/app/firebaseConfig.tsx
+
+# Generated Files
+*.hmap
+*.ipa
+*.app
+*.apk
+*.keystore
+
+# TypeScript
+*.tsbuildinfo
+
+# Misc
+.env
+.env.*
+.idea/
+.vscode/
