@@ -36,9 +36,9 @@ ios/.generated/
 babel.config.js
 
 # Firebase & Sensitive Files
-datat_insertion/venv/
-datat_insertion/serviceAccountKey.json
-frontend/app/firebaseConfig.tsx
+data_insertion/venv/
+data_insertion/serviceAccountKey.json
+frontend/app/tabs/firebaseConfig.tsx
 
 # Generated Files
 *.hmap
